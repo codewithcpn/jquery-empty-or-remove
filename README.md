@@ -1,0 +1,1 @@
+# jquery-empty-or-remove
